@@ -155,7 +155,7 @@ See also:
 
 Since runtime files aren't based on the Lua module system, two plugins can have a `plugin/main.lua` file without it being an issue.
 
-## Using Lua from Vimscript
+## 從Vimscript使用LUA
 
 ### :lua
 
