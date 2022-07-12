@@ -2,7 +2,7 @@
 
 # Getting started using Lua in Neovim
 
-## Translations
+## 翻譯
 
 - [:cn: Chinese version](https://github.com/glepnir/nvim-lua-guide-zh)
 - [:es: Spanish version](https://github.com/RicardoRien/nvim-lua-guide/blob/master/README.esp.md)
